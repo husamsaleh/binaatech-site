@@ -1,10 +1,10 @@
-/*
- Theme Name: Blocksy Child
- Template: blocksy
- Description: A custom child theme for Blocksy.
- Author: Your Name
- Version: 1.0.0
-*/
+/**
+ * Theme Name: Blocksy Child
+ * Description: Blocksy Child theme
+ * Author: Creative Themes
+ * Template: blocksy
+ * Text Domain: blocksy
+ */
 * {
     margin: 0;
     padding: 0;
